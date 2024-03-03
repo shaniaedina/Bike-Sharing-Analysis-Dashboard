@@ -1,6 +1,3 @@
-# Proyek-Analisis-Data-Dicoding
-Proyek Analisis Data Dicoding menggunakan Streamlit
-
 # Bike Sharing Analysis Dashboard ✨
 
 ## Setup environment
