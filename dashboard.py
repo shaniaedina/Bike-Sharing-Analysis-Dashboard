@@ -157,5 +157,6 @@ ax_season.set_ylabel('Jumlah Sewa Sepeda')
 ax_season.set_xlabel(None)
 st.pyplot(fig_season)
 
+st.caption('Copyright (c) Shania Edina 2024')
 
 
